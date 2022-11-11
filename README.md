@@ -1,5 +1,5 @@
-# tse_stocks_php
-resive iran Stocks price history on php
+# tse_stocks_php(tsetmc.com on php)
+resive iran Stocks price history on php - tsetmc.com php data
 دریافت اطلاعات سایت مدیریت فناوری بورس سهام ایران در پی اچ پی
 risive the Iran Stocks Market Data in php
 به دلیل فعالیت در کارگزاری هوشمند رابین در نجف آباد کارگزاری مدبرآسیا سابق دائما نیاز به دریافت اطلاعات سهام و سابقه قیمت ها در پی اچ پی  داشتم 
@@ -8,3 +8,4 @@ risive the Iran Stocks Market Data in php
 اضافه می کنم 
 Attention : * Enable curl in php.ini
 هشدا حتما اکستنشن سی یو آر ال را در فایل پی اچ پی آی ان آی فعال  کنید
+#دریافت اطلاعات سایت tse
