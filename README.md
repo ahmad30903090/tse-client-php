@@ -1,4 +1,4 @@
-# tse stocks php(tsetmc.com on php)
+# tse-client stocks php(tsetmc.com on php)
 
 get iran Stocks price history on php - tsetmc.com php data
 
