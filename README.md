@@ -1,4 +1,4 @@
-# tse_stocks_php(tsetmc.com on php)
+# tse stocks php(tsetmc.com on php)
 
 resive iran Stocks price history on php - tsetmc.com php data
 
