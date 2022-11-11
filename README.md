@@ -1,10 +1,10 @@
 # tse stocks php(tsetmc.com on php)
 
-resive iran Stocks price history on php - tsetmc.com php data
+get iran Stocks price history on php - tsetmc.com php data
 
 دریافت اطلاعات سایت مدیریت فناوری بورس سهام ایران در پی اچ پی
 
-risive the Iran Stocks Market Data in php
+receive the Iran Stocks Market Data in php
 
 به دلیل فعالیت در کارگزاری هوشمند رابین در نجف آباد کارگزاری مدبرآسیا سابق دائما نیاز به دریافت اطلاعات سهام و سابقه قیمت ها در پی اچ پی  داشتم 
 ولی این امکان وجود نداشت البته دوستان پکیج هایی برای پایتون نوشته بودند  که بنده فعلا در حد رفع نیاز برای سایت شعبه این دو تابع رو نوشتم
