@@ -2,6 +2,7 @@
 /* Najafabad HoshmanRabin Stock Broker(Modaber Asia)
  * programin by:ahmad mostafaie (ahma3090@yahoo.com)
  * under GNU/GPL Licence
+ * Enable curl in php.ini
  */
 function get_web_id($nemad = "شپنا") {
     $address = "http://www.tsetmc.com/tsev2/data/search.aspx?skey=" . $nemad;
