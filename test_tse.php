@@ -16,14 +16,16 @@
  * under GNU/GPL Licence
  * Enable curl in php.ini
  */
-require_once './tse_function.php';
+require_once "tse_functions.php";
 $data=get_stock_price_hist("خودرو");
 echo '<br>';
+
 foreach ($data as $value) {
     foreach ($value as $key => $values) {
         echo $key." ".$values."<br>";
     }
 }
+
 ?>
 
     </body>
